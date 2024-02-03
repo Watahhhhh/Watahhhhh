@@ -1,8 +1,7 @@
 # Watahhhhh
- Tuto
 
 Hello
 
-Hi
+Hi 
 
-Goodbye
+Goodbye 
